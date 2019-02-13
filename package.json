@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/arif98741/crudmon/issues"
   },
-  "homepage": "https://github.com/arif98741/crudmon#readme"
+  "homepage": "https://github.com/arif98741/crudmon#readme",
+  "devDependencies": {
+    "jquery": "^3.3.1"
+  }
 }
