@@ -1,6 +1,6 @@
 {
   "name": "crudmon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Codemon is a html template for exercising. This template can be easily used for php, angular, jsp etc. This is a starting. This template is under development. More updates are coming soon. ",
   "main": "index.js",
   "scripts": {
